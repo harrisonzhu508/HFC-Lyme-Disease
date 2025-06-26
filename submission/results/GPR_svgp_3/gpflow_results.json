@@ -1,3 +1,24 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:31c9e5e1c083ebccada083c1f3684ad5dc1b2e0a337e887cb312e2a8f9057826
-size 879
+{
+    "validation_rmse": 1.6130572078838266,
+    "kernel_scales": {
+        "src": 3.6859816929336575,
+        "red_deer": 3.0821924600127644,
+        "pct_wooded": 0.7294391858514633,
+        "wood_mice_deer": 0.6698748482163024,
+        "tick_pred": 0.5844058493826488,
+        "latlon_year": 0.5266539755336399,
+        "blackbird_deer": 0.23075141996396262,
+        "rel_humidity": 0.21708295333883523,
+        "roe_deer": 0.1981131411349788,
+        "bank_voles_deer": 0.08281258810577484,
+        "avg_elevation": 0.06372345270809446,
+        "age": 0.0524437213932654,
+        "sp": 0.017852885127338573,
+        "spec_humidity": 1.3570235456607744e-05,
+        "chinese_water_deer": 6.890056887573027e-06,
+        "t2m": 6.350169437581326e-06,
+        "lai_lv": 2.837439952334643e-06,
+        "tp": 2.5144317518060972e-06,
+        "lai_hv": 1.1198421132997934e-06
+    }
+}

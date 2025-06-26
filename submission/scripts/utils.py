@@ -88,6 +88,65 @@ def load_train_test_data(seed, variables, count=False):
 
     return X_train, y_train, X_val, y_val, X_test, df_test_year_areanm, N_train, N_val, N_test, D, df_train_meta_train, df_train_meta_val, scaler
 
+def load_train_test_nosplit_data(seed, variables, count=False):
+    """Load training and test data from CSV files."""
+
+    df_train = pd.read_csv("data/processed_data/train.csv")
+    df_test = pd.read_csv("data/processed_data/test.csv")
+    if count:
+        y_train = df_train["count"].values
+    else:
+        y_train = df_train["Incidence"].values
+    # y_train = df_train["count"].values
+    # Cast y_train to int
+    # y_train = y_train.astype(np.int32)  # Or round first if needed: np.round(y_train).astype(np.int32)
+
+    # mean_denominator = df_train.groupby("areanm")["Denominator"].mean().reset_index()
+    df_train_year_areanm = df_train[["areanm", "year", "Denominator"]]
+    
+    df_train = df_train[["areanm"] + variables]
+    # df_train = pd.merge(df_train, mean_denominator, on="areanm", how="left")
+    # df_train = df_train[["Denominator"] + variables]
+    df_train = df_train[variables]
+    X_train = df_train.values
+
+    # grab all rows for year==2022, then only keep the first row per area
+    denoms_2022 = (
+        df_train_year_areanm[df_train_year_areanm["year"] == 2022]
+        .drop_duplicates(subset="areanm", keep="first")
+        .set_index("areanm")["Denominator"]
+    )
+
+    # map it onto your test set
+    df_test["Denominator"] = df_test["areanm"].map(denoms_2022)
+    
+    df_test_year_areanm = df_test[["areanm", "year", "Denominator"]]
+    N_test = len(df_test)
+    # df_test = df_test[["Denominator"] + variables]
+    df_test = df_test[variables]
+    X_test = df_test.values
+
+    df_train_meta_train = df_train_year_areanm.copy()
+
+    N = len(y_train)
+    D = X_train.shape[1]  # Number of predictors
+
+    # Define new dimensions
+    N_train = len(y_train)  # Size of new training set
+
+    # apply scaling to X_train, X_val, and X_test
+    scaler = StandardScaler()
+    X_train = scaler.fit_transform(X_train)
+    X_test = scaler.transform(X_test)
+
+    # Print dimensions for confirmation
+    print(f"Original training size: {N}")
+    print(f"New training size: {N_train}")
+    print(f"Test size: {N_test}")
+    print(f"Number of predictors (D): {D}")
+
+    return X_train, y_train, X_test, df_test_year_areanm, N_train, N_test, D, df_train_meta_train, scaler
+
 
 def plot_predictions_with_ci(y_true, y_pred, ci_lower, ci_upper, filepath):
     plt.figure(figsize=(10, 6))

@@ -264,7 +264,7 @@ def main(seed: int, calib_frac: float = 0.2, alpha: float = 0.05):
             "ale_se":    ale_se.tolist(),
             "ci_lower":  ci_lo.tolist(),
             "ci_upper":  ci_hi.tolist(),
-            "ale_overall_mean": float(np.mean(ale_mean)),
+            "ale_overall_mean": float(np.mean(np.abs(ale_mean))),
             "ale_lo": float(np.percentile(ale_mean, 5)),
             "ale_hi": float(np.percentile(ale_mean, 95)),
         }
