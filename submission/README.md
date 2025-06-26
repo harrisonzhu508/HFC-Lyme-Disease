@@ -5,7 +5,7 @@ The commands below create an Anaconda environment sufficient to run `submission_
 ```
 conda create -n ticks_env python=3.10 -y
 conda activate ticks_env
-conda install -c conda-forge numpy pandas matplotlib seaborn scikit-learn tqdm scipy
+conda install -c conda-forge numpy pandas matplotlib seaborn scikit-learn tqdm scipy shap xgboost pyale
 pip install cmdstanpy pyyaml gpflow tensorflow shap xarray cartopy geopandas pyale xgboost
 python -m cmdstanpy.install_cmdstan
 ```
