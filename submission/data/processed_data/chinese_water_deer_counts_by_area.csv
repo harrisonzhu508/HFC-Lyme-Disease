@@ -1,3 +1,2369 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a0e86988f91d096b1be45956f9cab234bc88b7b0ae132c90d0fe820fab233d3d
-size 44830
+areanm,year,chinese_water_deer_record_count
+Hartlepool,2017,0
+Hartlepool,2018,0
+Hartlepool,2019,0
+Hartlepool,2020,0
+Hartlepool,2021,0
+Hartlepool,2022,0
+Hartlepool,2023,0
+Hartlepool,2024,0
+Middlesbrough,2017,0
+Middlesbrough,2018,0
+Middlesbrough,2019,0
+Middlesbrough,2020,0
+Middlesbrough,2021,0
+Middlesbrough,2022,0
+Middlesbrough,2023,0
+Middlesbrough,2024,0
+Redcar and Cleveland,2017,0
+Redcar and Cleveland,2018,0
+Redcar and Cleveland,2019,0
+Redcar and Cleveland,2020,0
+Redcar and Cleveland,2021,0
+Redcar and Cleveland,2022,0
+Redcar and Cleveland,2023,0
+Redcar and Cleveland,2024,0
+Stockton-on-Tees,2017,0
+Stockton-on-Tees,2018,0
+Stockton-on-Tees,2019,0
+Stockton-on-Tees,2020,0
+Stockton-on-Tees,2021,0
+Stockton-on-Tees,2022,0
+Stockton-on-Tees,2023,0
+Stockton-on-Tees,2024,0
+Darlington,2017,0
+Darlington,2018,0
+Darlington,2019,0
+Darlington,2020,0
+Darlington,2021,0
+Darlington,2022,0
+Darlington,2023,0
+Darlington,2024,0
+Halton,2017,0
+Halton,2018,0
+Halton,2019,0
+Halton,2020,0
+Halton,2021,0
+Halton,2022,0
+Halton,2023,0
+Halton,2024,0
+Warrington,2017,0
+Warrington,2018,0
+Warrington,2019,0
+Warrington,2020,0
+Warrington,2021,0
+Warrington,2022,0
+Warrington,2023,0
+Warrington,2024,0
+Blackburn with Darwen,2017,0
+Blackburn with Darwen,2018,0
+Blackburn with Darwen,2019,0
+Blackburn with Darwen,2020,0
+Blackburn with Darwen,2021,0
+Blackburn with Darwen,2022,0
+Blackburn with Darwen,2023,0
+Blackburn with Darwen,2024,0
+Blackpool,2017,0
+Blackpool,2018,0
+Blackpool,2019,0
+Blackpool,2020,0
+Blackpool,2021,0
+Blackpool,2022,0
+Blackpool,2023,0
+Blackpool,2024,0
+Kingston upon Hull,2017,0
+Kingston upon Hull,2018,0
+Kingston upon Hull,2019,0
+Kingston upon Hull,2020,0
+Kingston upon Hull,2021,0
+Kingston upon Hull,2022,0
+Kingston upon Hull,2023,0
+Kingston upon Hull,2024,0
+East Riding of Yorkshire,2017,0
+East Riding of Yorkshire,2018,0
+East Riding of Yorkshire,2019,0
+East Riding of Yorkshire,2020,0
+East Riding of Yorkshire,2021,0
+East Riding of Yorkshire,2022,0
+East Riding of Yorkshire,2023,0
+East Riding of Yorkshire,2024,0
+North East Lincolnshire,2017,0
+North East Lincolnshire,2018,0
+North East Lincolnshire,2019,0
+North East Lincolnshire,2020,0
+North East Lincolnshire,2021,0
+North East Lincolnshire,2022,0
+North East Lincolnshire,2023,0
+North East Lincolnshire,2024,0
+North Lincolnshire,2017,0
+North Lincolnshire,2018,0
+North Lincolnshire,2019,0
+North Lincolnshire,2020,0
+North Lincolnshire,2021,0
+North Lincolnshire,2022,0
+North Lincolnshire,2023,0
+North Lincolnshire,2024,0
+York,2017,0
+York,2018,0
+York,2019,0
+York,2020,0
+York,2021,0
+York,2022,0
+York,2023,0
+York,2024,0
+Derby,2017,0
+Derby,2018,0
+Derby,2019,0
+Derby,2020,0
+Derby,2021,0
+Derby,2022,0
+Derby,2023,0
+Derby,2024,0
+Leicester,2017,0
+Leicester,2018,0
+Leicester,2019,0
+Leicester,2020,0
+Leicester,2021,0
+Leicester,2022,0
+Leicester,2023,0
+Leicester,2024,0
+Rutland,2017,0
+Rutland,2018,0
+Rutland,2019,0
+Rutland,2020,0
+Rutland,2021,0
+Rutland,2022,0
+Rutland,2023,0
+Rutland,2024,0
+Nottingham,2017,0
+Nottingham,2018,0
+Nottingham,2019,0
+Nottingham,2020,0
+Nottingham,2021,0
+Nottingham,2022,0
+Nottingham,2023,0
+Nottingham,2024,0
+Herefordshire,2017,0
+Herefordshire,2018,0
+Herefordshire,2019,0
+Herefordshire,2020,0
+Herefordshire,2021,0
+Herefordshire,2022,0
+Herefordshire,2023,1
+Herefordshire,2024,0
+Telford and Wrekin,2017,0
+Telford and Wrekin,2018,0
+Telford and Wrekin,2019,0
+Telford and Wrekin,2020,0
+Telford and Wrekin,2021,0
+Telford and Wrekin,2022,0
+Telford and Wrekin,2023,0
+Telford and Wrekin,2024,0
+Stoke-on-Trent,2017,0
+Stoke-on-Trent,2018,0
+Stoke-on-Trent,2019,0
+Stoke-on-Trent,2020,0
+Stoke-on-Trent,2021,0
+Stoke-on-Trent,2022,0
+Stoke-on-Trent,2023,0
+Stoke-on-Trent,2024,0
+Bath and North East Somerset,2017,0
+Bath and North East Somerset,2018,0
+Bath and North East Somerset,2019,0
+Bath and North East Somerset,2020,0
+Bath and North East Somerset,2021,0
+Bath and North East Somerset,2022,0
+Bath and North East Somerset,2023,0
+Bath and North East Somerset,2024,0
+Bristol,2017,0
+Bristol,2018,0
+Bristol,2019,0
+Bristol,2020,0
+Bristol,2021,0
+Bristol,2022,0
+Bristol,2023,0
+Bristol,2024,0
+North Somerset,2017,0
+North Somerset,2018,0
+North Somerset,2019,0
+North Somerset,2020,0
+North Somerset,2021,0
+North Somerset,2022,0
+North Somerset,2023,0
+North Somerset,2024,0
+South Gloucestershire,2017,0
+South Gloucestershire,2018,0
+South Gloucestershire,2019,0
+South Gloucestershire,2020,0
+South Gloucestershire,2021,0
+South Gloucestershire,2022,0
+South Gloucestershire,2023,0
+South Gloucestershire,2024,0
+Plymouth,2017,0
+Plymouth,2018,0
+Plymouth,2019,0
+Plymouth,2020,0
+Plymouth,2021,0
+Plymouth,2022,0
+Plymouth,2023,0
+Plymouth,2024,0
+Torbay,2017,0
+Torbay,2018,0
+Torbay,2019,0
+Torbay,2020,0
+Torbay,2021,0
+Torbay,2022,0
+Torbay,2023,0
+Torbay,2024,0
+Bournemouth,2017,0
+Bournemouth,2018,0
+Bournemouth,2019,0
+Bournemouth,2020,0
+Bournemouth,2021,0
+Bournemouth,2022,0
+Bournemouth,2023,0
+Bournemouth,2024,0
+Swindon,2017,0
+Swindon,2018,0
+Swindon,2019,0
+Swindon,2020,0
+Swindon,2021,0
+Swindon,2022,0
+Swindon,2023,0
+Swindon,2024,0
+Peterborough,2017,0
+Peterborough,2018,0
+Peterborough,2019,0
+Peterborough,2020,1
+Peterborough,2021,0
+Peterborough,2022,0
+Peterborough,2023,0
+Peterborough,2024,1
+Luton,2017,0
+Luton,2018,0
+Luton,2019,0
+Luton,2020,0
+Luton,2021,0
+Luton,2022,0
+Luton,2023,0
+Luton,2024,0
+Southend-on-Sea,2017,0
+Southend-on-Sea,2018,0
+Southend-on-Sea,2019,0
+Southend-on-Sea,2020,0
+Southend-on-Sea,2021,0
+Southend-on-Sea,2022,0
+Southend-on-Sea,2023,0
+Southend-on-Sea,2024,0
+Thurrock,2017,0
+Thurrock,2018,0
+Thurrock,2019,0
+Thurrock,2020,0
+Thurrock,2021,0
+Thurrock,2022,0
+Thurrock,2023,0
+Thurrock,2024,0
+Medway,2017,0
+Medway,2018,0
+Medway,2019,0
+Medway,2020,0
+Medway,2021,0
+Medway,2022,0
+Medway,2023,0
+Medway,2024,0
+Bracknell Forest,2017,0
+Bracknell Forest,2018,0
+Bracknell Forest,2019,0
+Bracknell Forest,2020,0
+Bracknell Forest,2021,0
+Bracknell Forest,2022,0
+Bracknell Forest,2023,0
+Bracknell Forest,2024,0
+West Berkshire,2017,0
+West Berkshire,2018,0
+West Berkshire,2019,0
+West Berkshire,2020,0
+West Berkshire,2021,0
+West Berkshire,2022,0
+West Berkshire,2023,0
+West Berkshire,2024,0
+Reading,2017,0
+Reading,2018,0
+Reading,2019,0
+Reading,2020,0
+Reading,2021,1
+Reading,2022,0
+Reading,2023,0
+Reading,2024,0
+Slough,2017,0
+Slough,2018,0
+Slough,2019,0
+Slough,2020,0
+Slough,2021,0
+Slough,2022,0
+Slough,2023,0
+Slough,2024,0
+Windsor and Maidenhead,2017,0
+Windsor and Maidenhead,2018,0
+Windsor and Maidenhead,2019,0
+Windsor and Maidenhead,2020,0
+Windsor and Maidenhead,2021,0
+Windsor and Maidenhead,2022,0
+Windsor and Maidenhead,2023,0
+Windsor and Maidenhead,2024,0
+Wokingham,2017,0
+Wokingham,2018,0
+Wokingham,2019,0
+Wokingham,2020,0
+Wokingham,2021,0
+Wokingham,2022,0
+Wokingham,2023,0
+Wokingham,2024,0
+Milton Keynes,2017,0
+Milton Keynes,2018,0
+Milton Keynes,2019,0
+Milton Keynes,2020,0
+Milton Keynes,2021,0
+Milton Keynes,2022,0
+Milton Keynes,2023,0
+Milton Keynes,2024,0
+Brighton and Hove,2017,0
+Brighton and Hove,2018,0
+Brighton and Hove,2019,0
+Brighton and Hove,2020,0
+Brighton and Hove,2021,0
+Brighton and Hove,2022,0
+Brighton and Hove,2023,0
+Brighton and Hove,2024,0
+Portsmouth,2017,0
+Portsmouth,2018,0
+Portsmouth,2019,0
+Portsmouth,2020,0
+Portsmouth,2021,0
+Portsmouth,2022,0
+Portsmouth,2023,0
+Portsmouth,2024,0
+Southampton,2017,0
+Southampton,2018,0
+Southampton,2019,0
+Southampton,2020,0
+Southampton,2021,0
+Southampton,2022,0
+Southampton,2023,0
+Southampton,2024,0
+Isle of Wight,2017,0
+Isle of Wight,2018,0
+Isle of Wight,2019,0
+Isle of Wight,2020,0
+Isle of Wight,2021,0
+Isle of Wight,2022,0
+Isle of Wight,2023,0
+Isle of Wight,2024,0
+County Durham,2017,0
+County Durham,2018,0
+County Durham,2019,0
+County Durham,2020,0
+County Durham,2021,0
+County Durham,2022,0
+County Durham,2023,0
+County Durham,2024,0
+Cheshire East,2017,0
+Cheshire East,2018,0
+Cheshire East,2019,0
+Cheshire East,2020,0
+Cheshire East,2021,0
+Cheshire East,2022,0
+Cheshire East,2023,0
+Cheshire East,2024,0
+Cheshire West and Chester,2017,0
+Cheshire West and Chester,2018,0
+Cheshire West and Chester,2019,0
+Cheshire West and Chester,2020,0
+Cheshire West and Chester,2021,0
+Cheshire West and Chester,2022,0
+Cheshire West and Chester,2023,0
+Cheshire West and Chester,2024,0
+Shropshire,2017,0
+Shropshire,2018,0
+Shropshire,2019,0
+Shropshire,2020,0
+Shropshire,2021,0
+Shropshire,2022,0
+Shropshire,2023,0
+Shropshire,2024,0
+Cornwall,2017,0
+Cornwall,2018,0
+Cornwall,2019,0
+Cornwall,2020,0
+Cornwall,2021,0
+Cornwall,2022,0
+Cornwall,2023,0
+Cornwall,2024,0
+Isles of Scilly,2017,0
+Isles of Scilly,2018,0
+Isles of Scilly,2019,0
+Isles of Scilly,2020,0
+Isles of Scilly,2021,0
+Isles of Scilly,2022,0
+Isles of Scilly,2023,0
+Isles of Scilly,2024,0
+Wiltshire,2017,0
+Wiltshire,2018,0
+Wiltshire,2019,0
+Wiltshire,2020,0
+Wiltshire,2021,0
+Wiltshire,2022,0
+Wiltshire,2023,0
+Wiltshire,2024,0
+Bedford,2017,1
+Bedford,2018,2
+Bedford,2019,1
+Bedford,2020,0
+Bedford,2021,3
+Bedford,2022,0
+Bedford,2023,0
+Bedford,2024,0
+Central Bedfordshire,2017,14
+Central Bedfordshire,2018,15
+Central Bedfordshire,2019,27
+Central Bedfordshire,2020,3
+Central Bedfordshire,2021,10
+Central Bedfordshire,2022,0
+Central Bedfordshire,2023,1
+Central Bedfordshire,2024,0
+Northumberland,2017,0
+Northumberland,2018,0
+Northumberland,2019,0
+Northumberland,2020,0
+Northumberland,2021,0
+Northumberland,2022,0
+Northumberland,2023,0
+Northumberland,2024,0
+Cambridge,2017,0
+Cambridge,2018,0
+Cambridge,2019,1
+Cambridge,2020,0
+Cambridge,2021,0
+Cambridge,2022,1
+Cambridge,2023,0
+Cambridge,2024,0
+East Cambridgeshire,2017,1
+East Cambridgeshire,2018,1
+East Cambridgeshire,2019,4
+East Cambridgeshire,2020,5
+East Cambridgeshire,2021,1
+East Cambridgeshire,2022,3
+East Cambridgeshire,2023,3
+East Cambridgeshire,2024,3
+Fenland,2017,0
+Fenland,2018,1
+Fenland,2019,0
+Fenland,2020,1
+Fenland,2021,0
+Fenland,2022,2
+Fenland,2023,9
+Fenland,2024,5
+Huntingdonshire,2017,8
+Huntingdonshire,2018,5
+Huntingdonshire,2019,11
+Huntingdonshire,2020,3
+Huntingdonshire,2021,21
+Huntingdonshire,2022,22
+Huntingdonshire,2023,19
+Huntingdonshire,2024,38
+South Cambridgeshire,2017,2
+South Cambridgeshire,2018,0
+South Cambridgeshire,2019,2
+South Cambridgeshire,2020,2
+South Cambridgeshire,2021,3
+South Cambridgeshire,2022,2
+South Cambridgeshire,2023,4
+South Cambridgeshire,2024,6
+Amber Valley,2017,0
+Amber Valley,2018,0
+Amber Valley,2019,0
+Amber Valley,2020,0
+Amber Valley,2021,0
+Amber Valley,2022,0
+Amber Valley,2023,0
+Amber Valley,2024,0
+Bolsover,2017,0
+Bolsover,2018,0
+Bolsover,2019,0
+Bolsover,2020,0
+Bolsover,2021,0
+Bolsover,2022,0
+Bolsover,2023,0
+Bolsover,2024,0
+Chesterfield,2017,0
+Chesterfield,2018,0
+Chesterfield,2019,0
+Chesterfield,2020,0
+Chesterfield,2021,0
+Chesterfield,2022,0
+Chesterfield,2023,0
+Chesterfield,2024,0
+Derbyshire Dales,2017,0
+Derbyshire Dales,2018,0
+Derbyshire Dales,2019,0
+Derbyshire Dales,2020,0
+Derbyshire Dales,2021,0
+Derbyshire Dales,2022,0
+Derbyshire Dales,2023,0
+Derbyshire Dales,2024,0
+Erewash,2017,0
+Erewash,2018,0
+Erewash,2019,0
+Erewash,2020,0
+Erewash,2021,0
+Erewash,2022,0
+Erewash,2023,0
+Erewash,2024,0
+High Peak,2017,0
+High Peak,2018,0
+High Peak,2019,0
+High Peak,2020,0
+High Peak,2021,0
+High Peak,2022,0
+High Peak,2023,0
+High Peak,2024,0
+North East Derbyshire,2017,0
+North East Derbyshire,2018,0
+North East Derbyshire,2019,0
+North East Derbyshire,2020,0
+North East Derbyshire,2021,0
+North East Derbyshire,2022,0
+North East Derbyshire,2023,0
+North East Derbyshire,2024,0
+South Derbyshire,2017,0
+South Derbyshire,2018,0
+South Derbyshire,2019,0
+South Derbyshire,2020,0
+South Derbyshire,2021,0
+South Derbyshire,2022,0
+South Derbyshire,2023,0
+South Derbyshire,2024,0
+East Devon,2017,0
+East Devon,2018,0
+East Devon,2019,0
+East Devon,2020,0
+East Devon,2021,0
+East Devon,2022,0
+East Devon,2023,0
+East Devon,2024,0
+Exeter,2017,0
+Exeter,2018,0
+Exeter,2019,0
+Exeter,2020,0
+Exeter,2021,0
+Exeter,2022,0
+Exeter,2023,0
+Exeter,2024,0
+Mid Devon,2017,0
+Mid Devon,2018,0
+Mid Devon,2019,0
+Mid Devon,2020,0
+Mid Devon,2021,0
+Mid Devon,2022,0
+Mid Devon,2023,0
+Mid Devon,2024,0
+North Devon,2017,0
+North Devon,2018,0
+North Devon,2019,0
+North Devon,2020,0
+North Devon,2021,0
+North Devon,2022,0
+North Devon,2023,0
+North Devon,2024,0
+South Hams,2017,0
+South Hams,2018,0
+South Hams,2019,0
+South Hams,2020,0
+South Hams,2021,0
+South Hams,2022,0
+South Hams,2023,0
+South Hams,2024,0
+Teignbridge,2017,0
+Teignbridge,2018,0
+Teignbridge,2019,0
+Teignbridge,2020,0
+Teignbridge,2021,0
+Teignbridge,2022,0
+Teignbridge,2023,0
+Teignbridge,2024,0
+Torridge,2017,0
+Torridge,2018,0
+Torridge,2019,0
+Torridge,2020,0
+Torridge,2021,0
+Torridge,2022,0
+Torridge,2023,0
+Torridge,2024,0
+West Devon,2017,0
+West Devon,2018,0
+West Devon,2019,0
+West Devon,2020,0
+West Devon,2021,0
+West Devon,2022,0
+West Devon,2023,0
+West Devon,2024,0
+Eastbourne,2017,0
+Eastbourne,2018,0
+Eastbourne,2019,0
+Eastbourne,2020,0
+Eastbourne,2021,0
+Eastbourne,2022,0
+Eastbourne,2023,0
+Eastbourne,2024,0
+Hastings,2017,0
+Hastings,2018,0
+Hastings,2019,0
+Hastings,2020,0
+Hastings,2021,0
+Hastings,2022,0
+Hastings,2023,0
+Hastings,2024,0
+Lewes,2017,0
+Lewes,2018,0
+Lewes,2019,0
+Lewes,2020,0
+Lewes,2021,0
+Lewes,2022,0
+Lewes,2023,0
+Lewes,2024,0
+Rother,2017,0
+Rother,2018,0
+Rother,2019,0
+Rother,2020,0
+Rother,2021,0
+Rother,2022,0
+Rother,2023,0
+Rother,2024,0
+Wealden,2017,0
+Wealden,2018,0
+Wealden,2019,0
+Wealden,2020,0
+Wealden,2021,0
+Wealden,2022,0
+Wealden,2023,0
+Wealden,2024,0
+Basildon,2017,0
+Basildon,2018,0
+Basildon,2019,0
+Basildon,2020,0
+Basildon,2021,0
+Basildon,2022,0
+Basildon,2023,0
+Basildon,2024,0
+Braintree,2017,0
+Braintree,2018,0
+Braintree,2019,0
+Braintree,2020,0
+Braintree,2021,0
+Braintree,2022,0
+Braintree,2023,0
+Braintree,2024,0
+Brentwood,2017,0
+Brentwood,2018,0
+Brentwood,2019,0
+Brentwood,2020,0
+Brentwood,2021,0
+Brentwood,2022,0
+Brentwood,2023,0
+Brentwood,2024,0
+Castle Point,2017,0
+Castle Point,2018,0
+Castle Point,2019,0
+Castle Point,2020,0
+Castle Point,2021,0
+Castle Point,2022,0
+Castle Point,2023,0
+Castle Point,2024,0
+Chelmsford,2017,0
+Chelmsford,2018,0
+Chelmsford,2019,0
+Chelmsford,2020,0
+Chelmsford,2021,0
+Chelmsford,2022,0
+Chelmsford,2023,0
+Chelmsford,2024,0
+Colchester,2017,0
+Colchester,2018,0
+Colchester,2019,0
+Colchester,2020,0
+Colchester,2021,1
+Colchester,2022,1
+Colchester,2023,0
+Colchester,2024,1
+Epping Forest,2017,0
+Epping Forest,2018,0
+Epping Forest,2019,0
+Epping Forest,2020,0
+Epping Forest,2021,0
+Epping Forest,2022,0
+Epping Forest,2023,0
+Epping Forest,2024,0
+Harlow,2017,0
+Harlow,2018,0
+Harlow,2019,0
+Harlow,2020,0
+Harlow,2021,0
+Harlow,2022,0
+Harlow,2023,0
+Harlow,2024,0
+Maldon,2017,0
+Maldon,2018,0
+Maldon,2019,0
+Maldon,2020,0
+Maldon,2021,0
+Maldon,2022,0
+Maldon,2023,0
+Maldon,2024,1
+Rochford,2017,0
+Rochford,2018,0
+Rochford,2019,0
+Rochford,2020,0
+Rochford,2021,0
+Rochford,2022,0
+Rochford,2023,0
+Rochford,2024,0
+Tendring,2017,0
+Tendring,2018,0
+Tendring,2019,0
+Tendring,2020,0
+Tendring,2021,0
+Tendring,2022,0
+Tendring,2023,0
+Tendring,2024,0
+Uttlesford,2017,0
+Uttlesford,2018,0
+Uttlesford,2019,0
+Uttlesford,2020,0
+Uttlesford,2021,0
+Uttlesford,2022,0
+Uttlesford,2023,0
+Uttlesford,2024,0
+Cheltenham,2017,0
+Cheltenham,2018,0
+Cheltenham,2019,0
+Cheltenham,2020,0
+Cheltenham,2021,0
+Cheltenham,2022,0
+Cheltenham,2023,0
+Cheltenham,2024,0
+Cotswold,2017,0
+Cotswold,2018,0
+Cotswold,2019,0
+Cotswold,2020,0
+Cotswold,2021,0
+Cotswold,2022,0
+Cotswold,2023,0
+Cotswold,2024,0
+Forest of Dean,2017,0
+Forest of Dean,2018,0
+Forest of Dean,2019,0
+Forest of Dean,2020,0
+Forest of Dean,2021,0
+Forest of Dean,2022,0
+Forest of Dean,2023,0
+Forest of Dean,2024,0
+Gloucester,2017,0
+Gloucester,2018,0
+Gloucester,2019,0
+Gloucester,2020,0
+Gloucester,2021,0
+Gloucester,2022,0
+Gloucester,2023,0
+Gloucester,2024,0
+Stroud,2017,0
+Stroud,2018,0
+Stroud,2019,0
+Stroud,2020,0
+Stroud,2021,0
+Stroud,2022,0
+Stroud,2023,0
+Stroud,2024,0
+Tewkesbury,2017,0
+Tewkesbury,2018,0
+Tewkesbury,2019,0
+Tewkesbury,2020,0
+Tewkesbury,2021,0
+Tewkesbury,2022,0
+Tewkesbury,2023,0
+Tewkesbury,2024,0
+Basingstoke and Deane,2017,0
+Basingstoke and Deane,2018,0
+Basingstoke and Deane,2019,0
+Basingstoke and Deane,2020,0
+Basingstoke and Deane,2021,0
+Basingstoke and Deane,2022,0
+Basingstoke and Deane,2023,0
+Basingstoke and Deane,2024,0
+East Hampshire,2017,0
+East Hampshire,2018,0
+East Hampshire,2019,0
+East Hampshire,2020,0
+East Hampshire,2021,0
+East Hampshire,2022,0
+East Hampshire,2023,0
+East Hampshire,2024,0
+Eastleigh,2017,0
+Eastleigh,2018,0
+Eastleigh,2019,0
+Eastleigh,2020,0
+Eastleigh,2021,0
+Eastleigh,2022,0
+Eastleigh,2023,0
+Eastleigh,2024,0
+Fareham,2017,0
+Fareham,2018,0
+Fareham,2019,0
+Fareham,2020,0
+Fareham,2021,0
+Fareham,2022,0
+Fareham,2023,0
+Fareham,2024,0
+Gosport,2017,0
+Gosport,2018,0
+Gosport,2019,0
+Gosport,2020,0
+Gosport,2021,0
+Gosport,2022,0
+Gosport,2023,0
+Gosport,2024,0
+Hart,2017,0
+Hart,2018,0
+Hart,2019,0
+Hart,2020,0
+Hart,2021,0
+Hart,2022,0
+Hart,2023,0
+Hart,2024,0
+Havant,2017,0
+Havant,2018,0
+Havant,2019,0
+Havant,2020,0
+Havant,2021,0
+Havant,2022,0
+Havant,2023,0
+Havant,2024,0
+New Forest,2017,0
+New Forest,2018,0
+New Forest,2019,0
+New Forest,2020,0
+New Forest,2021,0
+New Forest,2022,0
+New Forest,2023,0
+New Forest,2024,0
+Rushmoor,2017,0
+Rushmoor,2018,0
+Rushmoor,2019,0
+Rushmoor,2020,0
+Rushmoor,2021,0
+Rushmoor,2022,0
+Rushmoor,2023,0
+Rushmoor,2024,0
+Test Valley,2017,0
+Test Valley,2018,0
+Test Valley,2019,0
+Test Valley,2020,0
+Test Valley,2021,0
+Test Valley,2022,0
+Test Valley,2023,0
+Test Valley,2024,0
+Winchester,2017,0
+Winchester,2018,0
+Winchester,2019,0
+Winchester,2020,0
+Winchester,2021,0
+Winchester,2022,0
+Winchester,2023,0
+Winchester,2024,0
+Broxbourne,2017,0
+Broxbourne,2018,0
+Broxbourne,2019,0
+Broxbourne,2020,0
+Broxbourne,2021,0
+Broxbourne,2022,0
+Broxbourne,2023,0
+Broxbourne,2024,0
+Dacorum,2017,2
+Dacorum,2018,1
+Dacorum,2019,0
+Dacorum,2020,1
+Dacorum,2021,0
+Dacorum,2022,0
+Dacorum,2023,0
+Dacorum,2024,0
+Hertsmere,2017,0
+Hertsmere,2018,0
+Hertsmere,2019,0
+Hertsmere,2020,0
+Hertsmere,2021,0
+Hertsmere,2022,0
+Hertsmere,2023,0
+Hertsmere,2024,0
+North Hertfordshire,2017,0
+North Hertfordshire,2018,0
+North Hertfordshire,2019,0
+North Hertfordshire,2020,0
+North Hertfordshire,2021,0
+North Hertfordshire,2022,0
+North Hertfordshire,2023,0
+North Hertfordshire,2024,0
+Three Rivers,2017,0
+Three Rivers,2018,0
+Three Rivers,2019,0
+Three Rivers,2020,0
+Three Rivers,2021,0
+Three Rivers,2022,0
+Three Rivers,2023,0
+Three Rivers,2024,0
+Watford,2017,0
+Watford,2018,0
+Watford,2019,0
+Watford,2020,0
+Watford,2021,0
+Watford,2022,0
+Watford,2023,0
+Watford,2024,0
+Ashford,2017,0
+Ashford,2018,0
+Ashford,2019,0
+Ashford,2020,0
+Ashford,2021,0
+Ashford,2022,0
+Ashford,2023,0
+Ashford,2024,0
+Canterbury,2017,0
+Canterbury,2018,0
+Canterbury,2019,0
+Canterbury,2020,0
+Canterbury,2021,0
+Canterbury,2022,0
+Canterbury,2023,0
+Canterbury,2024,0
+Dartford,2017,0
+Dartford,2018,0
+Dartford,2019,0
+Dartford,2020,0
+Dartford,2021,0
+Dartford,2022,0
+Dartford,2023,0
+Dartford,2024,0
+Dover,2017,0
+Dover,2018,0
+Dover,2019,0
+Dover,2020,0
+Dover,2021,0
+Dover,2022,0
+Dover,2023,0
+Dover,2024,0
+Gravesham,2017,0
+Gravesham,2018,0
+Gravesham,2019,0
+Gravesham,2020,0
+Gravesham,2021,0
+Gravesham,2022,0
+Gravesham,2023,0
+Gravesham,2024,0
+Maidstone,2017,0
+Maidstone,2018,0
+Maidstone,2019,0
+Maidstone,2020,0
+Maidstone,2021,0
+Maidstone,2022,0
+Maidstone,2023,0
+Maidstone,2024,0
+Sevenoaks,2017,0
+Sevenoaks,2018,0
+Sevenoaks,2019,0
+Sevenoaks,2020,0
+Sevenoaks,2021,0
+Sevenoaks,2022,0
+Sevenoaks,2023,0
+Sevenoaks,2024,0
+Folkestone & Hythe,2017,0
+Folkestone & Hythe,2018,0
+Folkestone & Hythe,2019,0
+Folkestone & Hythe,2020,0
+Folkestone & Hythe,2021,0
+Folkestone & Hythe,2022,0
+Folkestone & Hythe,2023,0
+Folkestone & Hythe,2024,0
+Swale,2017,0
+Swale,2018,0
+Swale,2019,0
+Swale,2020,0
+Swale,2021,0
+Swale,2022,0
+Swale,2023,0
+Swale,2024,0
+Thanet,2017,0
+Thanet,2018,0
+Thanet,2019,0
+Thanet,2020,0
+Thanet,2021,0
+Thanet,2022,0
+Thanet,2023,0
+Thanet,2024,0
+Tonbridge and Malling,2017,0
+Tonbridge and Malling,2018,0
+Tonbridge and Malling,2019,0
+Tonbridge and Malling,2020,0
+Tonbridge and Malling,2021,0
+Tonbridge and Malling,2022,0
+Tonbridge and Malling,2023,0
+Tonbridge and Malling,2024,0
+Tunbridge Wells,2017,0
+Tunbridge Wells,2018,0
+Tunbridge Wells,2019,0
+Tunbridge Wells,2020,0
+Tunbridge Wells,2021,0
+Tunbridge Wells,2022,0
+Tunbridge Wells,2023,0
+Tunbridge Wells,2024,0
+Burnley,2017,0
+Burnley,2018,0
+Burnley,2019,0
+Burnley,2020,0
+Burnley,2021,0
+Burnley,2022,0
+Burnley,2023,0
+Burnley,2024,0
+Chorley,2017,0
+Chorley,2018,0
+Chorley,2019,0
+Chorley,2020,0
+Chorley,2021,0
+Chorley,2022,0
+Chorley,2023,0
+Chorley,2024,0
+Fylde,2017,0
+Fylde,2018,0
+Fylde,2019,0
+Fylde,2020,0
+Fylde,2021,0
+Fylde,2022,0
+Fylde,2023,0
+Fylde,2024,0
+Hyndburn,2017,0
+Hyndburn,2018,0
+Hyndburn,2019,0
+Hyndburn,2020,0
+Hyndburn,2021,0
+Hyndburn,2022,0
+Hyndburn,2023,0
+Hyndburn,2024,0
+Lancaster,2017,0
+Lancaster,2018,0
+Lancaster,2019,0
+Lancaster,2020,0
+Lancaster,2021,0
+Lancaster,2022,0
+Lancaster,2023,0
+Lancaster,2024,0
+Pendle,2017,0
+Pendle,2018,0
+Pendle,2019,0
+Pendle,2020,0
+Pendle,2021,0
+Pendle,2022,0
+Pendle,2023,0
+Pendle,2024,0
+Preston,2017,0
+Preston,2018,0
+Preston,2019,0
+Preston,2020,0
+Preston,2021,0
+Preston,2022,0
+Preston,2023,0
+Preston,2024,0
+Ribble Valley,2017,0
+Ribble Valley,2018,0
+Ribble Valley,2019,0
+Ribble Valley,2020,0
+Ribble Valley,2021,0
+Ribble Valley,2022,0
+Ribble Valley,2023,0
+Ribble Valley,2024,0
+Rossendale,2017,0
+Rossendale,2018,0
+Rossendale,2019,0
+Rossendale,2020,0
+Rossendale,2021,0
+Rossendale,2022,0
+Rossendale,2023,0
+Rossendale,2024,0
+South Ribble,2017,0
+South Ribble,2018,0
+South Ribble,2019,0
+South Ribble,2020,0
+South Ribble,2021,0
+South Ribble,2022,0
+South Ribble,2023,0
+South Ribble,2024,0
+West Lancashire,2017,0
+West Lancashire,2018,0
+West Lancashire,2019,0
+West Lancashire,2020,0
+West Lancashire,2021,0
+West Lancashire,2022,0
+West Lancashire,2023,0
+West Lancashire,2024,0
+Wyre,2017,0
+Wyre,2018,0
+Wyre,2019,0
+Wyre,2020,0
+Wyre,2021,0
+Wyre,2022,0
+Wyre,2023,0
+Wyre,2024,0
+Blaby,2017,0
+Blaby,2018,0
+Blaby,2019,0
+Blaby,2020,0
+Blaby,2021,0
+Blaby,2022,0
+Blaby,2023,0
+Blaby,2024,0
+Charnwood,2017,0
+Charnwood,2018,0
+Charnwood,2019,0
+Charnwood,2020,0
+Charnwood,2021,0
+Charnwood,2022,0
+Charnwood,2023,0
+Charnwood,2024,0
+Harborough,2017,0
+Harborough,2018,0
+Harborough,2019,0
+Harborough,2020,0
+Harborough,2021,0
+Harborough,2022,0
+Harborough,2023,0
+Harborough,2024,0
+Hinckley and Bosworth,2017,0
+Hinckley and Bosworth,2018,0
+Hinckley and Bosworth,2019,0
+Hinckley and Bosworth,2020,0
+Hinckley and Bosworth,2021,0
+Hinckley and Bosworth,2022,0
+Hinckley and Bosworth,2023,0
+Hinckley and Bosworth,2024,0
+Melton,2017,0
+Melton,2018,0
+Melton,2019,0
+Melton,2020,0
+Melton,2021,0
+Melton,2022,0
+Melton,2023,0
+Melton,2024,0
+North West Leicestershire,2017,0
+North West Leicestershire,2018,0
+North West Leicestershire,2019,0
+North West Leicestershire,2020,0
+North West Leicestershire,2021,0
+North West Leicestershire,2022,0
+North West Leicestershire,2023,0
+North West Leicestershire,2024,0
+Oadby and Wigston,2017,0
+Oadby and Wigston,2018,0
+Oadby and Wigston,2019,0
+Oadby and Wigston,2020,0
+Oadby and Wigston,2021,0
+Oadby and Wigston,2022,0
+Oadby and Wigston,2023,0
+Oadby and Wigston,2024,0
+Boston,2017,0
+Boston,2018,0
+Boston,2019,0
+Boston,2020,0
+Boston,2021,0
+Boston,2022,0
+Boston,2023,0
+Boston,2024,0
+East Lindsey,2017,0
+East Lindsey,2018,0
+East Lindsey,2019,0
+East Lindsey,2020,0
+East Lindsey,2021,0
+East Lindsey,2022,0
+East Lindsey,2023,0
+East Lindsey,2024,0
+Lincoln,2017,0
+Lincoln,2018,0
+Lincoln,2019,0
+Lincoln,2020,0
+Lincoln,2021,0
+Lincoln,2022,0
+Lincoln,2023,0
+Lincoln,2024,0
+North Kesteven,2017,0
+North Kesteven,2018,0
+North Kesteven,2019,0
+North Kesteven,2020,0
+North Kesteven,2021,0
+North Kesteven,2022,0
+North Kesteven,2023,0
+North Kesteven,2024,0
+South Holland,2017,0
+South Holland,2018,0
+South Holland,2019,0
+South Holland,2020,0
+South Holland,2021,0
+South Holland,2022,0
+South Holland,2023,0
+South Holland,2024,0
+South Kesteven,2017,0
+South Kesteven,2018,0
+South Kesteven,2019,0
+South Kesteven,2020,0
+South Kesteven,2021,0
+South Kesteven,2022,1
+South Kesteven,2023,0
+South Kesteven,2024,0
+West Lindsey,2017,0
+West Lindsey,2018,0
+West Lindsey,2019,0
+West Lindsey,2020,0
+West Lindsey,2021,0
+West Lindsey,2022,0
+West Lindsey,2023,0
+West Lindsey,2024,0
+Breckland,2017,1
+Breckland,2018,1
+Breckland,2019,0
+Breckland,2020,0
+Breckland,2021,2
+Breckland,2022,0
+Breckland,2023,0
+Breckland,2024,0
+Broadland,2017,2
+Broadland,2018,1
+Broadland,2019,4
+Broadland,2020,3
+Broadland,2021,5
+Broadland,2022,4
+Broadland,2023,4
+Broadland,2024,0
+Great Yarmouth,2017,0
+Great Yarmouth,2018,4
+Great Yarmouth,2019,1
+Great Yarmouth,2020,1
+Great Yarmouth,2021,2
+Great Yarmouth,2022,0
+Great Yarmouth,2023,0
+Great Yarmouth,2024,0
+King's Lynn and West Norfolk,2017,2
+King's Lynn and West Norfolk,2018,1
+King's Lynn and West Norfolk,2019,2
+King's Lynn and West Norfolk,2020,34
+King's Lynn and West Norfolk,2021,5
+King's Lynn and West Norfolk,2022,12
+King's Lynn and West Norfolk,2023,3
+King's Lynn and West Norfolk,2024,1
+North Norfolk,2017,7
+North Norfolk,2018,10
+North Norfolk,2019,3
+North Norfolk,2020,2
+North Norfolk,2021,8
+North Norfolk,2022,2
+North Norfolk,2023,3
+North Norfolk,2024,0
+Norwich,2017,0
+Norwich,2018,0
+Norwich,2019,0
+Norwich,2020,0
+Norwich,2021,0
+Norwich,2022,0
+Norwich,2023,0
+Norwich,2024,0
+South Norfolk,2017,5
+South Norfolk,2018,3
+South Norfolk,2019,7
+South Norfolk,2020,4
+South Norfolk,2021,6
+South Norfolk,2022,3
+South Norfolk,2023,0
+South Norfolk,2024,0
+Ashfield,2017,0
+Ashfield,2018,0
+Ashfield,2019,0
+Ashfield,2020,0
+Ashfield,2021,0
+Ashfield,2022,0
+Ashfield,2023,0
+Ashfield,2024,0
+Bassetlaw,2017,0
+Bassetlaw,2018,0
+Bassetlaw,2019,0
+Bassetlaw,2020,0
+Bassetlaw,2021,0
+Bassetlaw,2022,0
+Bassetlaw,2023,0
+Bassetlaw,2024,0
+Broxtowe,2017,0
+Broxtowe,2018,0
+Broxtowe,2019,0
+Broxtowe,2020,0
+Broxtowe,2021,0
+Broxtowe,2022,0
+Broxtowe,2023,0
+Broxtowe,2024,0
+Gedling,2017,0
+Gedling,2018,0
+Gedling,2019,0
+Gedling,2020,0
+Gedling,2021,0
+Gedling,2022,0
+Gedling,2023,0
+Gedling,2024,0
+Mansfield,2017,0
+Mansfield,2018,0
+Mansfield,2019,0
+Mansfield,2020,0
+Mansfield,2021,0
+Mansfield,2022,0
+Mansfield,2023,0
+Mansfield,2024,0
+Newark and Sherwood,2017,0
+Newark and Sherwood,2018,0
+Newark and Sherwood,2019,0
+Newark and Sherwood,2020,0
+Newark and Sherwood,2021,0
+Newark and Sherwood,2022,0
+Newark and Sherwood,2023,0
+Newark and Sherwood,2024,0
+Rushcliffe,2017,0
+Rushcliffe,2018,0
+Rushcliffe,2019,0
+Rushcliffe,2020,0
+Rushcliffe,2021,0
+Rushcliffe,2022,0
+Rushcliffe,2023,0
+Rushcliffe,2024,0
+Cherwell,2017,0
+Cherwell,2018,1
+Cherwell,2019,1
+Cherwell,2020,1
+Cherwell,2021,0
+Cherwell,2022,0
+Cherwell,2023,0
+Cherwell,2024,0
+Oxford,2017,0
+Oxford,2018,0
+Oxford,2019,0
+Oxford,2020,0
+Oxford,2021,0
+Oxford,2022,0
+Oxford,2023,0
+Oxford,2024,0
+South Oxfordshire,2017,0
+South Oxfordshire,2018,0
+South Oxfordshire,2019,0
+South Oxfordshire,2020,0
+South Oxfordshire,2021,0
+South Oxfordshire,2022,0
+South Oxfordshire,2023,0
+South Oxfordshire,2024,0
+Vale of White Horse,2017,0
+Vale of White Horse,2018,0
+Vale of White Horse,2019,0
+Vale of White Horse,2020,0
+Vale of White Horse,2021,0
+Vale of White Horse,2022,0
+Vale of White Horse,2023,0
+Vale of White Horse,2024,0
+West Oxfordshire,2017,0
+West Oxfordshire,2018,0
+West Oxfordshire,2019,0
+West Oxfordshire,2020,0
+West Oxfordshire,2021,0
+West Oxfordshire,2022,0
+West Oxfordshire,2023,0
+West Oxfordshire,2024,0
+Cannock Chase,2017,0
+Cannock Chase,2018,0
+Cannock Chase,2019,0
+Cannock Chase,2020,0
+Cannock Chase,2021,0
+Cannock Chase,2022,0
+Cannock Chase,2023,0
+Cannock Chase,2024,0
+East Staffordshire,2017,0
+East Staffordshire,2018,0
+East Staffordshire,2019,0
+East Staffordshire,2020,0
+East Staffordshire,2021,0
+East Staffordshire,2022,0
+East Staffordshire,2023,0
+East Staffordshire,2024,0
+Lichfield,2017,0
+Lichfield,2018,0
+Lichfield,2019,0
+Lichfield,2020,0
+Lichfield,2021,0
+Lichfield,2022,0
+Lichfield,2023,0
+Lichfield,2024,0
+Newcastle-under-Lyme,2017,0
+Newcastle-under-Lyme,2018,0
+Newcastle-under-Lyme,2019,0
+Newcastle-under-Lyme,2020,0
+Newcastle-under-Lyme,2021,0
+Newcastle-under-Lyme,2022,0
+Newcastle-under-Lyme,2023,0
+Newcastle-under-Lyme,2024,0
+South Staffordshire,2017,0
+South Staffordshire,2018,0
+South Staffordshire,2019,0
+South Staffordshire,2020,0
+South Staffordshire,2021,0
+South Staffordshire,2022,0
+South Staffordshire,2023,0
+South Staffordshire,2024,0
+Stafford,2017,0
+Stafford,2018,0
+Stafford,2019,0
+Stafford,2020,0
+Stafford,2021,0
+Stafford,2022,0
+Stafford,2023,0
+Stafford,2024,0
+Staffordshire Moorlands,2017,0
+Staffordshire Moorlands,2018,0
+Staffordshire Moorlands,2019,0
+Staffordshire Moorlands,2020,0
+Staffordshire Moorlands,2021,0
+Staffordshire Moorlands,2022,0
+Staffordshire Moorlands,2023,0
+Staffordshire Moorlands,2024,0
+Tamworth,2017,0
+Tamworth,2018,0
+Tamworth,2019,0
+Tamworth,2020,0
+Tamworth,2021,0
+Tamworth,2022,0
+Tamworth,2023,0
+Tamworth,2024,0
+Babergh,2017,0
+Babergh,2018,0
+Babergh,2019,0
+Babergh,2020,0
+Babergh,2021,0
+Babergh,2022,0
+Babergh,2023,0
+Babergh,2024,0
+Ipswich,2017,0
+Ipswich,2018,0
+Ipswich,2019,0
+Ipswich,2020,0
+Ipswich,2021,0
+Ipswich,2022,0
+Ipswich,2023,0
+Ipswich,2024,0
+Mid Suffolk,2017,1
+Mid Suffolk,2018,1
+Mid Suffolk,2019,0
+Mid Suffolk,2020,0
+Mid Suffolk,2021,1
+Mid Suffolk,2022,0
+Mid Suffolk,2023,1
+Mid Suffolk,2024,1
+Elmbridge,2017,0
+Elmbridge,2018,0
+Elmbridge,2019,0
+Elmbridge,2020,0
+Elmbridge,2021,0
+Elmbridge,2022,0
+Elmbridge,2023,0
+Elmbridge,2024,0
+Epsom and Ewell,2017,0
+Epsom and Ewell,2018,0
+Epsom and Ewell,2019,0
+Epsom and Ewell,2020,0
+Epsom and Ewell,2021,0
+Epsom and Ewell,2022,0
+Epsom and Ewell,2023,0
+Epsom and Ewell,2024,0
+Guildford,2017,0
+Guildford,2018,0
+Guildford,2019,0
+Guildford,2020,0
+Guildford,2021,0
+Guildford,2022,0
+Guildford,2023,0
+Guildford,2024,0
+Mole Valley,2017,0
+Mole Valley,2018,1
+Mole Valley,2019,0
+Mole Valley,2020,0
+Mole Valley,2021,0
+Mole Valley,2022,0
+Mole Valley,2023,0
+Mole Valley,2024,0
+Reigate and Banstead,2017,0
+Reigate and Banstead,2018,0
+Reigate and Banstead,2019,0
+Reigate and Banstead,2020,0
+Reigate and Banstead,2021,0
+Reigate and Banstead,2022,0
+Reigate and Banstead,2023,0
+Reigate and Banstead,2024,0
+Runnymede,2017,0
+Runnymede,2018,0
+Runnymede,2019,0
+Runnymede,2020,0
+Runnymede,2021,0
+Runnymede,2022,0
+Runnymede,2023,0
+Runnymede,2024,0
+Spelthorne,2017,0
+Spelthorne,2018,0
+Spelthorne,2019,0
+Spelthorne,2020,0
+Spelthorne,2021,0
+Spelthorne,2022,0
+Spelthorne,2023,0
+Spelthorne,2024,0
+Surrey Heath,2017,0
+Surrey Heath,2018,0
+Surrey Heath,2019,0
+Surrey Heath,2020,0
+Surrey Heath,2021,0
+Surrey Heath,2022,0
+Surrey Heath,2023,0
+Surrey Heath,2024,0
+Tandridge,2017,0
+Tandridge,2018,0
+Tandridge,2019,0
+Tandridge,2020,0
+Tandridge,2021,0
+Tandridge,2022,0
+Tandridge,2023,0
+Tandridge,2024,0
+Waverley,2017,0
+Waverley,2018,0
+Waverley,2019,0
+Waverley,2020,0
+Waverley,2021,0
+Waverley,2022,0
+Waverley,2023,0
+Waverley,2024,0
+Woking,2017,0
+Woking,2018,0
+Woking,2019,0
+Woking,2020,0
+Woking,2021,0
+Woking,2022,0
+Woking,2023,0
+Woking,2024,0
+North Warwickshire,2017,0
+North Warwickshire,2018,0
+North Warwickshire,2019,0
+North Warwickshire,2020,0
+North Warwickshire,2021,0
+North Warwickshire,2022,0
+North Warwickshire,2023,0
+North Warwickshire,2024,0
+Nuneaton and Bedworth,2017,0
+Nuneaton and Bedworth,2018,0
+Nuneaton and Bedworth,2019,0
+Nuneaton and Bedworth,2020,0
+Nuneaton and Bedworth,2021,0
+Nuneaton and Bedworth,2022,0
+Nuneaton and Bedworth,2023,0
+Nuneaton and Bedworth,2024,0
+Rugby,2017,0
+Rugby,2018,0
+Rugby,2019,0
+Rugby,2020,0
+Rugby,2021,0
+Rugby,2022,0
+Rugby,2023,0
+Rugby,2024,0
+Stratford-on-Avon,2017,0
+Stratford-on-Avon,2018,0
+Stratford-on-Avon,2019,0
+Stratford-on-Avon,2020,0
+Stratford-on-Avon,2021,0
+Stratford-on-Avon,2022,0
+Stratford-on-Avon,2023,0
+Stratford-on-Avon,2024,0
+Warwick,2017,0
+Warwick,2018,0
+Warwick,2019,0
+Warwick,2020,0
+Warwick,2021,0
+Warwick,2022,0
+Warwick,2023,0
+Warwick,2024,0
+Adur,2017,0
+Adur,2018,0
+Adur,2019,0
+Adur,2020,0
+Adur,2021,0
+Adur,2022,0
+Adur,2023,0
+Adur,2024,0
+Arun,2017,0
+Arun,2018,0
+Arun,2019,0
+Arun,2020,0
+Arun,2021,0
+Arun,2022,0
+Arun,2023,0
+Arun,2024,0
+Chichester,2017,0
+Chichester,2018,0
+Chichester,2019,0
+Chichester,2020,0
+Chichester,2021,0
+Chichester,2022,0
+Chichester,2023,0
+Chichester,2024,0
+Crawley,2017,0
+Crawley,2018,0
+Crawley,2019,0
+Crawley,2020,0
+Crawley,2021,0
+Crawley,2022,0
+Crawley,2023,0
+Crawley,2024,0
+Horsham,2017,0
+Horsham,2018,0
+Horsham,2019,0
+Horsham,2020,0
+Horsham,2021,0
+Horsham,2022,0
+Horsham,2023,0
+Horsham,2024,0
+Mid Sussex,2017,0
+Mid Sussex,2018,0
+Mid Sussex,2019,0
+Mid Sussex,2020,0
+Mid Sussex,2021,0
+Mid Sussex,2022,0
+Mid Sussex,2023,0
+Mid Sussex,2024,0
+Worthing,2017,0
+Worthing,2018,0
+Worthing,2019,0
+Worthing,2020,0
+Worthing,2021,0
+Worthing,2022,0
+Worthing,2023,0
+Worthing,2024,0
+Bromsgrove,2017,0
+Bromsgrove,2018,0
+Bromsgrove,2019,0
+Bromsgrove,2020,0
+Bromsgrove,2021,0
+Bromsgrove,2022,0
+Bromsgrove,2023,0
+Bromsgrove,2024,0
+Malvern Hills,2017,0
+Malvern Hills,2018,0
+Malvern Hills,2019,0
+Malvern Hills,2020,0
+Malvern Hills,2021,0
+Malvern Hills,2022,0
+Malvern Hills,2023,0
+Malvern Hills,2024,0
+Redditch,2017,0
+Redditch,2018,0
+Redditch,2019,0
+Redditch,2020,0
+Redditch,2021,0
+Redditch,2022,0
+Redditch,2023,0
+Redditch,2024,0
+Worcester,2017,0
+Worcester,2018,0
+Worcester,2019,0
+Worcester,2020,0
+Worcester,2021,0
+Worcester,2022,0
+Worcester,2023,0
+Worcester,2024,0
+Wychavon,2017,0
+Wychavon,2018,0
+Wychavon,2019,0
+Wychavon,2020,0
+Wychavon,2021,0
+Wychavon,2022,0
+Wychavon,2023,0
+Wychavon,2024,0
+Wyre Forest,2017,0
+Wyre Forest,2018,0
+Wyre Forest,2019,0
+Wyre Forest,2020,0
+Wyre Forest,2021,0
+Wyre Forest,2022,0
+Wyre Forest,2023,0
+Wyre Forest,2024,0
+St Albans,2017,0
+St Albans,2018,0
+St Albans,2019,0
+St Albans,2020,0
+St Albans,2021,0
+St Albans,2022,0
+St Albans,2023,0
+St Albans,2024,0
+Welwyn Hatfield,2017,0
+Welwyn Hatfield,2018,0
+Welwyn Hatfield,2019,0
+Welwyn Hatfield,2020,0
+Welwyn Hatfield,2021,0
+Welwyn Hatfield,2022,0
+Welwyn Hatfield,2023,0
+Welwyn Hatfield,2024,0
+East Hertfordshire,2017,0
+East Hertfordshire,2018,0
+East Hertfordshire,2019,0
+East Hertfordshire,2020,0
+East Hertfordshire,2021,0
+East Hertfordshire,2022,0
+East Hertfordshire,2023,0
+East Hertfordshire,2024,0
+Stevenage,2017,0
+Stevenage,2018,0
+Stevenage,2019,0
+Stevenage,2020,0
+Stevenage,2021,0
+Stevenage,2022,0
+Stevenage,2023,0
+Stevenage,2024,0
+Bolton,2017,0
+Bolton,2018,0
+Bolton,2019,0
+Bolton,2020,0
+Bolton,2021,0
+Bolton,2022,0
+Bolton,2023,0
+Bolton,2024,0
+Bury,2017,0
+Bury,2018,0
+Bury,2019,0
+Bury,2020,0
+Bury,2021,0
+Bury,2022,0
+Bury,2023,0
+Bury,2024,0
+Manchester,2017,0
+Manchester,2018,0
+Manchester,2019,0
+Manchester,2020,0
+Manchester,2021,0
+Manchester,2022,0
+Manchester,2023,0
+Manchester,2024,0
+Oldham,2017,0
+Oldham,2018,0
+Oldham,2019,0
+Oldham,2020,0
+Oldham,2021,0
+Oldham,2022,0
+Oldham,2023,0
+Oldham,2024,0
+Rochdale,2017,0
+Rochdale,2018,0
+Rochdale,2019,0
+Rochdale,2020,0
+Rochdale,2021,0
+Rochdale,2022,0
+Rochdale,2023,0
+Rochdale,2024,0
+Salford,2017,0
+Salford,2018,0
+Salford,2019,0
+Salford,2020,0
+Salford,2021,0
+Salford,2022,0
+Salford,2023,0
+Salford,2024,0
+Stockport,2017,0
+Stockport,2018,0
+Stockport,2019,0
+Stockport,2020,0
+Stockport,2021,0
+Stockport,2022,0
+Stockport,2023,0
+Stockport,2024,0
+Tameside,2017,0
+Tameside,2018,0
+Tameside,2019,0
+Tameside,2020,0
+Tameside,2021,0
+Tameside,2022,0
+Tameside,2023,0
+Tameside,2024,0
+Trafford,2017,0
+Trafford,2018,0
+Trafford,2019,0
+Trafford,2020,0
+Trafford,2021,0
+Trafford,2022,0
+Trafford,2023,0
+Trafford,2024,0
+Wigan,2017,0
+Wigan,2018,0
+Wigan,2019,0
+Wigan,2020,0
+Wigan,2021,0
+Wigan,2022,0
+Wigan,2023,0
+Wigan,2024,0
+Knowsley,2017,0
+Knowsley,2018,0
+Knowsley,2019,0
+Knowsley,2020,0
+Knowsley,2021,0
+Knowsley,2022,0
+Knowsley,2023,0
+Knowsley,2024,0
+Liverpool,2017,0
+Liverpool,2018,0
+Liverpool,2019,0
+Liverpool,2020,0
+Liverpool,2021,0
+Liverpool,2022,0
+Liverpool,2023,0
+Liverpool,2024,0
+St. Helens,2017,0
+St. Helens,2018,0
+St. Helens,2019,0
+St. Helens,2020,0
+St. Helens,2021,0
+St. Helens,2022,0
+St. Helens,2023,0
+St. Helens,2024,0
+Sefton,2017,0
+Sefton,2018,0
+Sefton,2019,0
+Sefton,2020,0
+Sefton,2021,0
+Sefton,2022,0
+Sefton,2023,0
+Sefton,2024,0
+Wirral,2017,0
+Wirral,2018,0
+Wirral,2019,0
+Wirral,2020,0
+Wirral,2021,0
+Wirral,2022,0
+Wirral,2023,0
+Wirral,2024,0
+Barnsley,2017,0
+Barnsley,2018,0
+Barnsley,2019,0
+Barnsley,2020,0
+Barnsley,2021,0
+Barnsley,2022,0
+Barnsley,2023,0
+Barnsley,2024,0
+Doncaster,2017,0
+Doncaster,2018,0
+Doncaster,2019,0
+Doncaster,2020,0
+Doncaster,2021,0
+Doncaster,2022,0
+Doncaster,2023,0
+Doncaster,2024,0
+Rotherham,2017,0
+Rotherham,2018,0
+Rotherham,2019,0
+Rotherham,2020,0
+Rotherham,2021,0
+Rotherham,2022,0
+Rotherham,2023,0
+Rotherham,2024,0
+Sheffield,2017,0
+Sheffield,2018,0
+Sheffield,2019,0
+Sheffield,2020,0
+Sheffield,2021,0
+Sheffield,2022,0
+Sheffield,2023,0
+Sheffield,2024,0
+Newcastle upon Tyne,2017,0
+Newcastle upon Tyne,2018,0
+Newcastle upon Tyne,2019,0
+Newcastle upon Tyne,2020,0
+Newcastle upon Tyne,2021,0
+Newcastle upon Tyne,2022,0
+Newcastle upon Tyne,2023,0
+Newcastle upon Tyne,2024,0
+North Tyneside,2017,0
+North Tyneside,2018,0
+North Tyneside,2019,0
+North Tyneside,2020,0
+North Tyneside,2021,0
+North Tyneside,2022,0
+North Tyneside,2023,0
+North Tyneside,2024,0
+South Tyneside,2017,0
+South Tyneside,2018,0
+South Tyneside,2019,0
+South Tyneside,2020,0
+South Tyneside,2021,0
+South Tyneside,2022,0
+South Tyneside,2023,0
+South Tyneside,2024,0
+Sunderland,2017,0
+Sunderland,2018,0
+Sunderland,2019,0
+Sunderland,2020,0
+Sunderland,2021,0
+Sunderland,2022,0
+Sunderland,2023,0
+Sunderland,2024,0
+Birmingham,2017,0
+Birmingham,2018,0
+Birmingham,2019,0
+Birmingham,2020,0
+Birmingham,2021,0
+Birmingham,2022,0
+Birmingham,2023,0
+Birmingham,2024,0
+Coventry,2017,0
+Coventry,2018,0
+Coventry,2019,0
+Coventry,2020,1
+Coventry,2021,0
+Coventry,2022,0
+Coventry,2023,0
+Coventry,2024,0
+Dudley,2017,0
+Dudley,2018,0
+Dudley,2019,0
+Dudley,2020,0
+Dudley,2021,0
+Dudley,2022,0
+Dudley,2023,0
+Dudley,2024,0
+Sandwell,2017,0
+Sandwell,2018,0
+Sandwell,2019,0
+Sandwell,2020,0
+Sandwell,2021,0
+Sandwell,2022,0
+Sandwell,2023,0
+Sandwell,2024,0
+Solihull,2017,0
+Solihull,2018,0
+Solihull,2019,0
+Solihull,2020,0
+Solihull,2021,0
+Solihull,2022,0
+Solihull,2023,0
+Solihull,2024,0
+Walsall,2017,0
+Walsall,2018,0
+Walsall,2019,0
+Walsall,2020,0
+Walsall,2021,0
+Walsall,2022,0
+Walsall,2023,0
+Walsall,2024,0
+Wolverhampton,2017,0
+Wolverhampton,2018,0
+Wolverhampton,2019,0
+Wolverhampton,2020,0
+Wolverhampton,2021,0
+Wolverhampton,2022,0
+Wolverhampton,2023,0
+Wolverhampton,2024,0
+Bradford,2017,0
+Bradford,2018,0
+Bradford,2019,0
+Bradford,2020,0
+Bradford,2021,0
+Bradford,2022,0
+Bradford,2023,0
+Bradford,2024,0
+Calderdale,2017,0
+Calderdale,2018,0
+Calderdale,2019,0
+Calderdale,2020,0
+Calderdale,2021,0
+Calderdale,2022,0
+Calderdale,2023,0
+Calderdale,2024,0
+Kirklees,2017,0
+Kirklees,2018,0
+Kirklees,2019,0
+Kirklees,2020,0
+Kirklees,2021,0
+Kirklees,2022,0
+Kirklees,2023,0
+Kirklees,2024,0
+Leeds,2017,0
+Leeds,2018,0
+Leeds,2019,0
+Leeds,2020,0
+Leeds,2021,0
+Leeds,2022,0
+Leeds,2023,0
+Leeds,2024,0
+Wakefield,2017,0
+Wakefield,2018,0
+Wakefield,2019,0
+Wakefield,2020,0
+Wakefield,2021,0
+Wakefield,2022,0
+Wakefield,2023,0
+Wakefield,2024,0
+Gateshead,2017,0
+Gateshead,2018,0
+Gateshead,2019,0
+Gateshead,2020,0
+Gateshead,2021,0
+Gateshead,2022,0
+Gateshead,2023,0
+Gateshead,2024,0
+City of London,2017,0
+City of London,2018,0
+City of London,2019,0
+City of London,2020,0
+City of London,2021,0
+City of London,2022,0
+City of London,2023,0
+City of London,2024,0
+Barking and Dagenham,2017,0
+Barking and Dagenham,2018,0
+Barking and Dagenham,2019,0
+Barking and Dagenham,2020,0
+Barking and Dagenham,2021,0
+Barking and Dagenham,2022,0
+Barking and Dagenham,2023,0
+Barking and Dagenham,2024,0
+Barnet,2017,0
+Barnet,2018,0
+Barnet,2019,0
+Barnet,2020,0
+Barnet,2021,0
+Barnet,2022,0
+Barnet,2023,0
+Barnet,2024,0
+Bexley,2017,0
+Bexley,2018,0
+Bexley,2019,0
+Bexley,2020,0
+Bexley,2021,0
+Bexley,2022,0
+Bexley,2023,0
+Bexley,2024,0
+Brent,2017,0
+Brent,2018,0
+Brent,2019,0
+Brent,2020,0
+Brent,2021,0
+Brent,2022,0
+Brent,2023,0
+Brent,2024,0
+Bromley,2017,0
+Bromley,2018,0
+Bromley,2019,0
+Bromley,2020,0
+Bromley,2021,0
+Bromley,2022,0
+Bromley,2023,0
+Bromley,2024,0
+Camden,2017,0
+Camden,2018,0
+Camden,2019,0
+Camden,2020,0
+Camden,2021,0
+Camden,2022,0
+Camden,2023,0
+Camden,2024,0
+Croydon,2017,0
+Croydon,2018,0
+Croydon,2019,0
+Croydon,2020,0
+Croydon,2021,0
+Croydon,2022,0
+Croydon,2023,0
+Croydon,2024,0
+Ealing,2017,0
+Ealing,2018,0
+Ealing,2019,0
+Ealing,2020,0
+Ealing,2021,0
+Ealing,2022,0
+Ealing,2023,0
+Ealing,2024,0
+Enfield,2017,0
+Enfield,2018,0
+Enfield,2019,0
+Enfield,2020,0
+Enfield,2021,0
+Enfield,2022,0
+Enfield,2023,0
+Enfield,2024,0
+Greenwich,2017,0
+Greenwich,2018,0
+Greenwich,2019,0
+Greenwich,2020,0
+Greenwich,2021,0
+Greenwich,2022,0
+Greenwich,2023,0
+Greenwich,2024,0
+Hackney,2017,0
+Hackney,2018,0
+Hackney,2019,0
+Hackney,2020,0
+Hackney,2021,0
+Hackney,2022,0
+Hackney,2023,0
+Hackney,2024,0
+Hammersmith and Fulham,2017,0
+Hammersmith and Fulham,2018,0
+Hammersmith and Fulham,2019,0
+Hammersmith and Fulham,2020,0
+Hammersmith and Fulham,2021,0
+Hammersmith and Fulham,2022,0
+Hammersmith and Fulham,2023,0
+Hammersmith and Fulham,2024,0
+Haringey,2017,0
+Haringey,2018,0
+Haringey,2019,0
+Haringey,2020,0
+Haringey,2021,0
+Haringey,2022,0
+Haringey,2023,0
+Haringey,2024,0
+Harrow,2017,0
+Harrow,2018,0
+Harrow,2019,0
+Harrow,2020,0
+Harrow,2021,0
+Harrow,2022,0
+Harrow,2023,0
+Harrow,2024,0
+Havering,2017,0
+Havering,2018,0
+Havering,2019,0
+Havering,2020,0
+Havering,2021,0
+Havering,2022,0
+Havering,2023,0
+Havering,2024,0
+Hillingdon,2017,0
+Hillingdon,2018,0
+Hillingdon,2019,0
+Hillingdon,2020,0
+Hillingdon,2021,0
+Hillingdon,2022,0
+Hillingdon,2023,0
+Hillingdon,2024,0
+Hounslow,2017,0
+Hounslow,2018,0
+Hounslow,2019,0
+Hounslow,2020,0
+Hounslow,2021,0
+Hounslow,2022,0
+Hounslow,2023,0
+Hounslow,2024,0
+Islington,2017,0
+Islington,2018,0
+Islington,2019,0
+Islington,2020,0
+Islington,2021,0
+Islington,2022,0
+Islington,2023,0
+Islington,2024,0
+Kensington and Chelsea,2017,0
+Kensington and Chelsea,2018,0
+Kensington and Chelsea,2019,0
+Kensington and Chelsea,2020,0
+Kensington and Chelsea,2021,0
+Kensington and Chelsea,2022,0
+Kensington and Chelsea,2023,0
+Kensington and Chelsea,2024,0
+Kingston upon Thames,2017,0
+Kingston upon Thames,2018,0
+Kingston upon Thames,2019,0
+Kingston upon Thames,2020,0
+Kingston upon Thames,2021,0
+Kingston upon Thames,2022,0
+Kingston upon Thames,2023,0
+Kingston upon Thames,2024,0
+Lambeth,2017,0
+Lambeth,2018,0
+Lambeth,2019,0
+Lambeth,2020,0
+Lambeth,2021,0
+Lambeth,2022,0
+Lambeth,2023,0
+Lambeth,2024,0
+Lewisham,2017,0
+Lewisham,2018,0
+Lewisham,2019,0
+Lewisham,2020,0
+Lewisham,2021,0
+Lewisham,2022,0
+Lewisham,2023,0
+Lewisham,2024,0
+Merton,2017,0
+Merton,2018,0
+Merton,2019,0
+Merton,2020,0
+Merton,2021,0
+Merton,2022,0
+Merton,2023,0
+Merton,2024,0
+Newham,2017,0
+Newham,2018,0
+Newham,2019,0
+Newham,2020,0
+Newham,2021,0
+Newham,2022,0
+Newham,2023,0
+Newham,2024,0
+Redbridge,2017,0
+Redbridge,2018,0
+Redbridge,2019,0
+Redbridge,2020,0
+Redbridge,2021,0
+Redbridge,2022,0
+Redbridge,2023,0
+Redbridge,2024,0
+Richmond upon Thames,2017,0
+Richmond upon Thames,2018,0
+Richmond upon Thames,2019,0
+Richmond upon Thames,2020,0
+Richmond upon Thames,2021,0
+Richmond upon Thames,2022,0
+Richmond upon Thames,2023,0
+Richmond upon Thames,2024,0
+Southwark,2017,0
+Southwark,2018,0
+Southwark,2019,0
+Southwark,2020,0
+Southwark,2021,0
+Southwark,2022,0
+Southwark,2023,0
+Southwark,2024,0
+Sutton,2017,0
+Sutton,2018,0
+Sutton,2019,0
+Sutton,2020,0
+Sutton,2021,0
+Sutton,2022,0
+Sutton,2023,0
+Sutton,2024,0
+Tower Hamlets,2017,0
+Tower Hamlets,2018,0
+Tower Hamlets,2019,0
+Tower Hamlets,2020,0
+Tower Hamlets,2021,0
+Tower Hamlets,2022,0
+Tower Hamlets,2023,0
+Tower Hamlets,2024,0
+Waltham Forest,2017,0
+Waltham Forest,2018,0
+Waltham Forest,2019,0
+Waltham Forest,2020,0
+Waltham Forest,2021,0
+Waltham Forest,2022,0
+Waltham Forest,2023,0
+Waltham Forest,2024,0
+Wandsworth,2017,0
+Wandsworth,2018,0
+Wandsworth,2019,0
+Wandsworth,2020,0
+Wandsworth,2021,0
+Wandsworth,2022,0
+Wandsworth,2023,0
+Wandsworth,2024,0
+Westminster,2017,0
+Westminster,2018,0
+Westminster,2019,0
+Westminster,2020,0
+Westminster,2021,0
+Westminster,2022,0
+Westminster,2023,0
+Westminster,2024,0
+Dorset,2017,0
+Dorset,2018,0
+Dorset,2019,0
+Dorset,2020,0
+Dorset,2021,0
+Dorset,2022,0
+Dorset,2023,0
+Dorset,2024,0
+West Suffolk,2017,0
+West Suffolk,2018,0
+West Suffolk,2019,0
+West Suffolk,2020,0
+West Suffolk,2021,0
+West Suffolk,2022,0
+West Suffolk,2023,0
+West Suffolk,2024,1
+East Suffolk,2017,12
+East Suffolk,2018,19
+East Suffolk,2019,11
+East Suffolk,2020,10
+East Suffolk,2021,28
+East Suffolk,2022,4
+East Suffolk,2023,4
+East Suffolk,2024,3
+Buckinghamshire UA,2017,1
+Buckinghamshire UA,2018,20
+Buckinghamshire UA,2019,7
+Buckinghamshire UA,2020,1
+Buckinghamshire UA,2021,4
+Buckinghamshire UA,2022,0
+Buckinghamshire UA,2023,0
+Buckinghamshire UA,2024,0
+North Northamptonshire,2017,0
+North Northamptonshire,2018,0
+North Northamptonshire,2019,0
+North Northamptonshire,2020,0
+North Northamptonshire,2021,0
+North Northamptonshire,2022,0
+North Northamptonshire,2023,1
+North Northamptonshire,2024,0
+West Northamptonshire,2017,0
+West Northamptonshire,2018,0
+West Northamptonshire,2019,0
+West Northamptonshire,2020,0
+West Northamptonshire,2021,0
+West Northamptonshire,2022,0
+West Northamptonshire,2023,0
+West Northamptonshire,2024,0
+Cumberland,2017,0
+Cumberland,2018,0
+Cumberland,2019,0
+Cumberland,2020,0
+Cumberland,2021,0
+Cumberland,2022,0
+Cumberland,2023,0
+Cumberland,2024,0
+Westmorland and Furness,2017,0
+Westmorland and Furness,2018,0
+Westmorland and Furness,2019,0
+Westmorland and Furness,2020,0
+Westmorland and Furness,2021,0
+Westmorland and Furness,2022,0
+Westmorland and Furness,2023,0
+Westmorland and Furness,2024,0
+North Yorkshire UA,2017,0
+North Yorkshire UA,2018,0
+North Yorkshire UA,2019,0
+North Yorkshire UA,2020,0
+North Yorkshire UA,2021,0
+North Yorkshire UA,2022,0
+North Yorkshire UA,2023,0
+North Yorkshire UA,2024,0
+Somerset UA,2017,0
+Somerset UA,2018,0
+Somerset UA,2019,0
+Somerset UA,2020,0
+Somerset UA,2021,0
+Somerset UA,2022,0
+Somerset UA,2023,0
+Somerset UA,2024,0
