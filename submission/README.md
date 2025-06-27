@@ -1,3 +1,8 @@
+## Submission 
+
+- `submission/forecast.csv` contains the final forecast for the competition.
+- `report.pdf` contains the report with the results of the analysis and the model. It is under 1000 words.
+
 ## Environment instructions
 
 The commands below create an Anaconda environment sufficient to run `submission_1.ipynb`
@@ -27,3 +32,4 @@ cd submission; ./scripts/run_models.sh
 
 ## Obtain plots and results
 Run the notebook `submission/plots.ipynb`
+
