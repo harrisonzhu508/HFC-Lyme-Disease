@@ -1,0 +1,92 @@
+areanm: Name of the county or region
+year: Year of data collection
+Incidence: Disease incidence per 100,000 population
+count: Raw case count
+t2m_1: Monthly mean 2m temperature in January (°C)
+t2m_2: Monthly mean 2m temperature in February (°C)
+t2m_3: Monthly mean 2m temperature in March (°C)
+t2m_4: Monthly mean 2m temperature in April (°C)
+t2m_5: Monthly mean 2m temperature in May (°C)
+t2m_6: Monthly mean 2m temperature in June (°C)
+t2m_7: Monthly mean 2m temperature in July (°C)
+t2m_8: Monthly mean 2m temperature in August (°C)
+t2m_9: Monthly mean 2m temperature in September (°C)
+t2m_10: Monthly mean 2m temperature in October (°C)
+t2m_11: Monthly mean 2m temperature in November (°C)
+t2m_12: Monthly mean 2m temperature in December (°C)
+spec_humidity_1: Specific humidity in January
+spec_humidity_2: Specific humidity in February
+spec_humidity_3: Specific humidity in March
+spec_humidity_4: Specific humidity in April
+spec_humidity_5: Specific humidity in May
+spec_humidity_6: Specific humidity in June
+spec_humidity_7: Specific humidity in July
+spec_humidity_8: Specific humidity in August
+spec_humidity_9: Specific humidity in September
+spec_humidity_10: Specific humidity in October
+spec_humidity_11: Specific humidity in November
+spec_humidity_12: Specific humidity in December
+rel_humidity_1: Relative humidity in January
+rel_humidity_2: Relative humidity in February
+rel_humidity_3: Relative humidity in March
+rel_humidity_4: Relative humidity in April
+rel_humidity_5: Relative humidity in May
+rel_humidity_6: Relative humidity in June
+rel_humidity_7: Relative humidity in July
+rel_humidity_8: Relative humidity in August
+rel_humidity_9: Relative humidity in September
+rel_humidity_10: Relative humidity in October
+rel_humidity_11: Relative humidity in November
+rel_humidity_12: Relative humidity in December
+src_1: skin_reservoir_content in January
+src_2: skin_reservoir_content in February
+src_3: skin_reservoir_content in March
+src_4: skin_reservoir_content in April
+src_5: skin_reservoir_content in May
+src_6: skin_reservoir_content in June
+src_7: skin_reservoir_content in July
+src_8: skin_reservoir_content in August
+src_9: skin_reservoir_content in September
+src_10: skin_reservoir_content in October
+src_11: skin_reservoir_content in November
+src_12: skin_reservoir_content in December
+sp_1: Surface pressure in January
+sp_2: Surface pressure in February
+sp_3: Surface pressure in March
+sp_4: Surface pressure in April
+sp_5: Surface pressure in May
+sp_6: Surface pressure in June
+sp_7: Surface pressure in July
+sp_8: Surface pressure in August
+sp_9: Surface pressure in September
+sp_10: Surface pressure in October
+sp_11: Surface pressure in November
+sp_12: Surface pressure in December
+tp_1: Total precipitation in January
+lai_hv_1: High vegetation leaf area index in January
+lai_hv_2: High vegetation leaf area index in February
+lai_hv_3: High vegetation leaf area index in March
+lai_hv_4: High vegetation leaf area index in April
+lai_hv_5: High vegetation leaf area index in May
+lai_hv_6: High vegetation leaf area index in June
+lai_hv_7: High vegetation leaf area index in July
+lai_hv_8: High vegetation leaf area index in August
+lai_hv_9: High vegetation leaf area index in September
+lai_hv_10: High vegetation leaf area index in October
+lai_hv_11: High vegetation leaf area index in November
+lai_hv_12: High vegetation leaf area index in December
+avg_elevation_m: Average elevation in meters
+mean_tree_cover_pct: Mean percentage of tree cover
+pct_wooded: Percentage of wooded area
+tick_pred: Predicted tick density
+tick_std: Standard deviation of tick prediction
+latitude: Latitude of the centroid of the region
+longitude: Longitude of the centroid of the region
+5_to_14y_fraction: Fraction of population aged 5 to 14 years
+50_to_65y_fraction: Fraction of population aged 50 to 65 years
+roe_deer_record_count: Count of roe deer records in the area
+red_deer_record_count: Count of red deer records in the area
+chinese_water_deer_record_count: Count of Chinese water deer records in the area
+wood_mice_record_count: Count of wood mice records in the area
+bank_voles_record_count: Count of bank voles records in the area
+blackbird_record_count: Count of blackbird records in the area
